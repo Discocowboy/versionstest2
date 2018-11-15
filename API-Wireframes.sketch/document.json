@@ -22,8 +22,6 @@
             }
           ],
           "miterLimit" : 10,
-          "sharedObjectID" : "440B80D9-9FC8-4593-A39A-C149555916FF",
-          "startDecorationType" : 0,
           "fills" : [
             {
               "_class" : "fill",
@@ -42,7 +40,9 @@
               "isEnabled" : true
             }
           ],
-          "endDecorationType" : 0
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
         },
         "_class" : "sharedStyle",
         "name" : "Rectangle 3 Style"
@@ -68,10 +68,6 @@
 
     ]
   },
-  "enableSliceInteraction" : true,
-  "foreignSymbols" : [
-
-  ],
   "pages" : [
     {
       "_ref_class" : "MSImmutablePage",
@@ -79,15 +75,21 @@
       "_ref" : "pages\/B1BA3558-09A1-4EBF-96D0-CA109DCA8C4F"
     }
   ],
+  "foreignSymbols" : [
+
+  ],
   "currentPageIndex" : 0,
   "_class" : "document",
+  "foreignLayerStyles" : [
+
+  ],
+  "colorSpace" : 0,
   "layerTextStyles" : {
     "objects" : [
 
     ],
     "_class" : "sharedTextStyleContainer"
   },
-  "enableLayerInteraction" : true,
   "layerSymbols" : {
     "objects" : [
 
@@ -95,6 +97,9 @@
     "_class" : "symbolContainer"
   },
   "do_objectID" : "3719D11F-C78D-4743-ABBB-1D22D6720546",
+  "foreignTextStyles" : [
+
+  ],
   "userInfo" : {
     "com.invisionlabs.sync" : {
       "metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
