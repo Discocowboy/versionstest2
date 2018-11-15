@@ -1,0 +1,113 @@
+{
+  "layerStyles" : {
+    "objects" : [
+      {
+        "do_objectID" : "440B80D9-9FC8-4593-A39A-C149555916FF",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : true,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "sharedObjectID" : "440B80D9-9FC8-4593-A39A-C149555916FF",
+          "startDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.84699999999999998,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.84699999999999998,
+                "green" : 0.84699999999999998
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "endDecorationType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Rectangle 3 Style"
+      }
+    ],
+    "_class" : "sharedStyleContainer"
+  },
+  "assets" : {
+    "gradients" : [
+
+    ],
+    "colors" : [
+
+    ],
+    "_class" : "assetCollection",
+    "imageCollection" : {
+      "images" : {
+
+      },
+      "_class" : "imageCollection"
+    },
+    "images" : [
+
+    ]
+  },
+  "enableSliceInteraction" : true,
+  "foreignSymbols" : [
+
+  ],
+  "pages" : [
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/5665FA19-723E-4CA3-935D-0A5E8C38AE87"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/B1BA3558-09A1-4EBF-96D0-CA109DCA8C4F"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/FAF1742B-31BC-47B8-975B-7CBD550AB07C"
+    }
+  ],
+  "currentPageIndex" : 1,
+  "_class" : "document",
+  "layerTextStyles" : {
+    "objects" : [
+
+    ],
+    "_class" : "sharedTextStyleContainer"
+  },
+  "enableLayerInteraction" : true,
+  "layerSymbols" : {
+    "objects" : [
+
+    ],
+    "_class" : "symbolContainer"
+  },
+  "do_objectID" : "3719D11F-C78D-4743-ABBB-1D22D6720546",
+  "userInfo" : {
+    "com.invisionlabs.sync" : {
+      "metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

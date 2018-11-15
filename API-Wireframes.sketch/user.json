@@ -1,0 +1,26 @@
+{
+  "3719D11F-C78D-4743-ABBB-1D22D6720546" : {
+    "pageListHeight" : 110,
+    "exportableLayerSelection" : [
+      "262542AB-EBF7-44C1-B61A-1A2881993A7F",
+      "9B23FC7E-2DFA-4FE5-B90E-4D91523DAC3F",
+      "3925DFEF-0080-44BE-9485-DDD16A6691F9"
+    ]
+  },
+  "6A1EBD21-FD17-4E9D-BABC-A07358409EE5" : {
+    "scrollOrigin" : "{0, 0}",
+    "zoomValue" : 1
+  },
+  "5665FA19-723E-4CA3-935D-0A5E8C38AE87" : {
+    "scrollOrigin" : "{248, 116}",
+    "zoomValue" : 0.51430988459916982
+  },
+  "FAF1742B-31BC-47B8-975B-7CBD550AB07C" : {
+    "scrollOrigin" : "{535, 319}",
+    "zoomValue" : 0.42826874673818749
+  },
+  "B1BA3558-09A1-4EBF-96D0-CA109DCA8C4F" : {
+    "scrollOrigin" : "{892, 135}",
+    "zoomValue" : 0.25
+  }
+}

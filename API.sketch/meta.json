@@ -1,0 +1,56 @@
+{
+  "commit" : "752502a5f62450dd6555e39d77a464fb4c5043e7",
+  "build" : 44496,
+  "version" : 93,
+  "fonts" : [
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue"
+  ],
+  "compatibilityVersion" : 93,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "commit" : "752502a5f62450dd6555e39d77a464fb4c5043e7",
+    "appVersion" : "46.2",
+    "build" : 44496,
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 93,
+    "version" : 93,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.44496"
+  ],
+  "appVersion" : "46.2",
+  "pagesAndArtboards" : {
+    "5665FA19-723E-4CA3-935D-0A5E8C38AE87" : {
+      "name" : "V1",
+      "artboards" : {
+        "E9D9E1A5-6A83-4564-9F30-05B94A714C3D" : {
+          "name" : "Desktop HD"
+        }
+      }
+    },
+    "FAF1742B-31BC-47B8-975B-7CBD550AB07C" : {
+      "name" : "for Images export",
+      "artboards" : {
+        "7A1DA407-A746-45EB-B054-3F178EF4A4E3" : {
+          "name" : "Artboard"
+        }
+      }
+    },
+    "B1BA3558-09A1-4EBF-96D0-CA109DCA8C4F" : {
+      "name" : "Wireframes",
+      "artboards" : {
+        "8F612CEF-76C2-4D44-B4DC-E64BD09E6400" : {
+          "name" : "Interaction"
+        },
+        "8736BB3E-FEFC-40F1-AB12-E7F60C7C5755" : {
+          "name" : "INPUT Home Page"
+        }
+      }
+    }
+  }
+}
